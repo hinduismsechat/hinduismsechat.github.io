@@ -4,7 +4,6 @@
 -   Be Nice to each-other.
 -   Abide by  [Code of Conduct.](https://hinduism.stackexchange.com/conduct)
 -   Keep the discussion on-topic as much as possible.
--   No swear word is allowed.
 
 ## Chat Formatting Guide
 
